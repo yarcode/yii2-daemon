@@ -1,0 +1,32 @@
+{
+  "name": "yarcode/yii2-daemon-yarcode",
+  "description": "Yii2 daemon based on ReactPHP",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "daemon",
+    "reactphp"
+  ],
+  "homepage": "http://packagist.org/packages/yarcode/yii2-daemon-yarcode",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexey Samoylov",
+      "email": "alexey.samoylov@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/yarcode/yii2-daemon-yarcode/issues",
+    "source": "https://github.com/yarcode/yii2-daemon-yarcode"
+  },
+  "require": {
+    "yiisoft/yii2": "~2",
+    "react/react": "^0.4.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "yarcode\\yii2\\daemon": "./src"
+    }
+  }
+}
