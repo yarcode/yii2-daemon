@@ -19,13 +19,13 @@ or add
 
 ## Usage
 
-Extend the `yarcode\yii2\daemon\DaemonCommand` class and add your own `prepare()` implementation.
+Extend the `YarCode\Yii2\Daemon\DaemonCommand` class and add your own `prepare()` implementation.
 
 ```
 <?php
 namespace console\controllers;
 
-use yarcode\yii2\daemon\DaemonCommand;
+use YarCode\Yii2\Daemon\DaemonCommand;
 
 class AsyncController extends DaemonCommand
 {

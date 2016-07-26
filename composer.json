@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4": {
-      "yarcode\\yii2\\daemon\\": "./src"
+      "YarCode\\Yii2\\Daemon\\": "./src"
     }
   }
 }

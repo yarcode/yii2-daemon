@@ -2,7 +2,7 @@
 /**
  * @author Alexey Samoylov <alexey.samoylov@gmail.com>
  */
-namespace yarcode\yii2\daemon;
+namespace YarCode\Yii2\Daemon;
 
 use React\EventLoop\Factory;
 use React\EventLoop\LoopInterface;
