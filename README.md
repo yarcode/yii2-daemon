@@ -1,4 +1,4 @@
-# yii2-daemon-yarcode
+# yarcode/yii2-daemon
 Yii2 daemon based on ReactPHP
 
 ## Installation
@@ -8,13 +8,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yarcode/yii2-daemon-yarcode
+php composer.phar require --prefer-dist yarcode/yii2-daemon
 ```
 
 or add
 
 ```json
-"yarcode/yii2-daemon-yarcode": "*"
+"yarcode/yii2-daemon": "*"
 ```
 
 ## Usage
