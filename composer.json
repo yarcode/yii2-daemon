@@ -1,5 +1,5 @@
 {
-  "name": "yarcode/yii2-daemon-yarcode",
+  "name": "yarcode/yii2-daemon",
   "description": "Yii2 daemon based on ReactPHP",
   "type": "yii2-extension",
   "keywords": [
@@ -7,7 +7,7 @@
     "daemon",
     "reactphp"
   ],
-  "homepage": "http://packagist.org/packages/yarcode/yii2-daemon-yarcode",
+  "homepage": "http://packagist.org/packages/yarcode/yii2-daemon",
   "license": "MIT",
   "authors": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/yarcode/yii2-daemon-yarcode/issues",
-    "source": "https://github.com/yarcode/yii2-daemon-yarcode"
+    "issues": "https://github.com/yarcode/yii2-daemon/issues",
+    "source": "https://github.com/yarcode/yii2-daemon"
   },
   "require": {
     "yiisoft/yii2": "~2",
